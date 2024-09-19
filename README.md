@@ -14,3 +14,11 @@ viralfndr - [ViralFindr | Search trending posts on Instagram](https://viralfindr
 
 [https://www.pixominia.com/](https://www.pixominia.com/) - THE EASIEST WAY TO  
 ANIMATION  - Download free transparent videos
+
+[https://www.myinstants.com/](https://www.myinstants.com/) - Sound Effect free
+
+[https://huggingface.co/spaces/TencentARC/InstantMesh](https://huggingface.co/spaces/TencentARC/InstantMesh) - 3d model
+
+[https://haiper.ai/onboarding](https://haiper.ai/onboarding) - Text To Video
+
+[https://fliki.ai/](https://fliki.ai/) - text to video
